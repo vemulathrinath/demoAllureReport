@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test preserve-order="true" name="C:/Users/HP CORE i3/IdeaProjects/demoAllureReport">
+        <classes>
+            <class name="tests.DemoTest">
+            </class>
+        </classes>
+    </test>
+</suite>
